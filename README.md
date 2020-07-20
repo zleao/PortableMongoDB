@@ -2,7 +2,7 @@
 
 **How to implement a service that is able to handle both an Azure Cosmos DB and an on premisse Mongo DB instance**
 
-This is the source code for the blog post on Medium, related to the implementation of a service that is capable of handling both on premise and cloud (Azure) instances of MongoDb.
+This is the source code for the [blog post on Medium](https://medium.com/medialesson/working-with-mongodb-on-premises-and-cloud-environments-4551ca284b76), related to the implementation of a service that is capable of handling both on premise and cloud (Azure) instances of MongoDb.
 
 ## Compatibility:
 - Azure Cosmos Db (MongoDB API v3.2)
